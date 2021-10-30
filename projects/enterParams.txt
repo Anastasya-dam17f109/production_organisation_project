@@ -1,0 +1,1 @@
+195.19.32.74 5432 fn1132_2018 student admin bmstu admin
